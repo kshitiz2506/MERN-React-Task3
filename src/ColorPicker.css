@@ -1,0 +1,29 @@
+.color-picker {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .color-list {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .color {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
