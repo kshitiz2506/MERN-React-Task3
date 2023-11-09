@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-React-Task3/static/css/main.3e27e7f6.css",
+    "main.js": "/MERN-React-Task3/static/js/main.68130c16.js",
+    "index.html": "/MERN-React-Task3/index.html",
+    "main.3e27e7f6.css.map": "/MERN-React-Task3/static/css/main.3e27e7f6.css.map",
+    "main.68130c16.js.map": "/MERN-React-Task3/static/js/main.68130c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e27e7f6.css",
+    "static/js/main.68130c16.js"
+  ]
+}
